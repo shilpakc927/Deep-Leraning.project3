@@ -216,27 +216,28 @@ label = class_labels[np.argmax(prediction)]
 ---
 
 ## 📁 Files Included
-- `Web Cam.ipynb` – Jupyter Notebook for training
-- `app.py` – Flask backend
-- `object.html` – frontend UI
+- `Web Cam.ipynb`    – Jupyter Notebook for training
+- `app.py`           – Flask backend
+- `object.html`      – frontend UI
 - `Web Cam_model.h5` - trained model
-- `class_labels.json` – class label mapping
-- `README.md` – project documentation
+- `class_labels.json`– class label mapping
+- `README.md`        – project documentation
 
 
 ---
 ## 📸 Project Screenshots
 
 **Main Interface**
-- [screenshot 1](Screenshot%2021.png)
-- [screenshot 2](Screenshot%2033.png)
+- [screenshot 1](Screenshot%2033.png)
+- [screenshot 2](Screenshot%2021.png)
 
-  **Live Detection**
-- [screenshot 1](Screenshot%2023.png)
+**Live Detection**
+- [screenshot 1](Screenshot%2027.png)
 - [screenshot 2](Screenshot%2025.png)
 - [screenshot 3](Screenshot%2026.png)
-- [screenshot 4](Screenshot%2027.png)
+- [screenshot 4](Screenshot%2023.png)
 
+**Ending message**
 - [Thank You Message](Screenshot%2028.png)
 
 ---
