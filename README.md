@@ -219,7 +219,6 @@ label = class_labels[np.argmax(prediction)]
 - `Web Cam.ipynb` – Jupyter Notebook for training
 - `app.py` – Flask backend
 - `object.html` – frontend UI
-- `26 classes.csv` - dataset
 - `Web Cam_model.h5` - trained model
 - `class_labels.json` – class label mapping
 - `README.md` – project documentation
@@ -228,9 +227,17 @@ label = class_labels[np.argmax(prediction)]
 ---
 ## 📸 Project Screenshots
 
-- [Main Interface](Screenshot%2011.png)
-- [Live Detection](Screenshot%2012.png)
-- [Thank You Message](Screenshot%2015.png)
+**Main Interface**
+- [screenshot 1](Screenshot%2021.png)
+- [screenshot 2](Screenshot%2033.png)
+
+  **Live Detection**
+- [screenshot 1](Screenshot%2023.png)
+- [screenshot 2](Screenshot%2025.png)
+- [screenshot 3](Screenshot%2026.png)
+- [screenshot 4](Screenshot%2027.png)
+
+- [Thank You Message](Screenshot%2028.png)
 
 ---
 ## 📝 Example requirements.txt
