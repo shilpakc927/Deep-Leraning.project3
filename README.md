@@ -69,10 +69,9 @@ This README assumes you have already trained the model and saved it as `Web Cam_
   "0": "Bench",
   "1": "Bicycle",
   "2": "Branch",
-  ...
 }
+```
 ---
-
 
 ## 🧠 Model Training (`Web Cam.ipynb`)
 
@@ -106,9 +105,9 @@ model.add(Dense(num_classes, activation='softmax'))
 - Save:
   ```python
   model.save("Web Cam_model.keras")
-with open("class_labels.json", "w") as f:
+  with open("class_labels.json", "w") as f:
     json.dump(class_indices, f)
-```
+  ```
 ---
 
 ## 🌐 Flask Application (`app.py`)
