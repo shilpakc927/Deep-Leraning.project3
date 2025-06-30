@@ -177,7 +177,7 @@ label = class_labels[np.argmax(prediction)]
      ```python 
     pip install -r requirements.txt
       ```
-(Example requirements.txt below)
+   (Example requirements.txt below)
 
 7. **Train model (if needed):**
    - Open the Jupyter Notebook (Web Cam .ipynb).
